@@ -1,1 +1,6 @@
 # garciarocio-tp1
+
+Buenas. Trate de armar un CV con la dispocisión tradicional de elementos en un cv. 
+En el header se puede encontrar la información de contacto, en el main se encuentra los detalles académicos y profesionales, y el el footer se vuelve a nombrar la información de contacto de manera mas sutil. A pesar de tener poco contenido, trate de enriquecerlo un poco con el uso de botones con hiper vinculos, y diferentes tipos de flexbox en la medida de mis capacidades.
+Trabaje con Visual Studio Code, y fui probando el archivo index en diferentes navegadores (opera y edge), también chequeandolo en dos pantallas diferentes, la primera con una resolución de 1920x1080, y la segunda con una resolución de pantalla de 1366x768.
+Nota extra: Se que el main se pudo trabajar mas, pero con el corte de luz de fin de semana, decidi dejarlo todo como la ultima vez que toque el trabajo antes de la fecha de entrega. Pido disculpas por la demora de la entrega también, pero estaba más alla de mis manos. 
